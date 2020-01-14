@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9d52e90-a28e-428c-9f72-4ce6805bf535" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RKsbWKiSTRDnZ7n03ClHSEW6JV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RunManager" selected="Kotlin.DynamicArrayKt">
+    <configuration name="DynamicArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Practice Sheet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DynamicArrayKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMPKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Practice Sheet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="KMPKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Practice Sheet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RTL_AND_LTRKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Practice Sheet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RTL_AND_LTRKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Practice Sheet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.DynamicArrayKt" />
+        <item itemvalue="Kotlin.RTL_AND_LTRKt" />
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Kotlin.Main" />
+        <item itemvalue="Kotlin.KMPKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9d52e90-a28e-428c-9f72-4ce6805bf535" name="Default Changelist" comment="" />
+      <created>1569427193709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569427193709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="395" key="GridCell.Tab.0.bottom" timestamp="1579025773205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="395" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579025773205" />
+    <state width="1493" height="395" key="GridCell.Tab.0.center" timestamp="1579025773205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="395" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579025773205" />
+    <state width="1493" height="395" key="GridCell.Tab.0.left" timestamp="1579025773205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="395" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579025773205" />
+    <state width="1493" height="395" key="GridCell.Tab.0.right" timestamp="1579025773205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="395" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579025773205" />
+    <state width="1493" height="372" key="GridCell.Tab.1.bottom" timestamp="1579000720305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="372" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579000720305" />
+    <state width="1493" height="372" key="GridCell.Tab.1.center" timestamp="1579000720305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="372" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579000720305" />
+    <state width="1493" height="372" key="GridCell.Tab.1.left" timestamp="1579000720305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="372" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579000720305" />
+    <state width="1493" height="372" key="GridCell.Tab.1.right" timestamp="1579000720305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="372" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579000720305" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578913423856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578913423856" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/QuickSort.kt</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/KMP.kt</url>
+          <line>65</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/RKSM.kt</url>
+          <line>62</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
